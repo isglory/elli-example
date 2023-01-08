@@ -23,7 +23,7 @@ export default function AppMentor(props) {
           setPerson((prev)=>({...prev, mentor : {...prev, name}}))
         }}
       >
-        멘토바꿨당
+        멘토얌
       </button>
       <button
         onClick={() => {
